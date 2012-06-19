@@ -10,4 +10,4 @@ parameters:
     mailer_user: null
     mailer_password: null
     locale: en
-    secret: 56aac1851fd8356f263a889dbbf22802add85e84
+    secret: changethis
