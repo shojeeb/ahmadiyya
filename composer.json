@@ -9,7 +9,10 @@
         }
     ],
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-0": { 
+			"": "src/",
+			"Ahmadiyya": "vendor/ahmadiyya/"
+		}
     },
     "require": {
         "php": ">=5.3.3",
